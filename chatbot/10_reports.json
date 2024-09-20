@@ -1,0 +1,29 @@
+[
+    {
+        "Question": "Where can user check the NEFT / Enrollment status.",
+        "Answers": [            
+            "1. On Rewards Portal : For Single customer user can refer Single Customer Information option available in Master Menu. For Multiple customer, user can refer Secondary customer Master option available under Master Menu.",
+            "2. In Mobile Application : User can refer Single Customer information available under main menu."
+        ]
+    },
+    {
+        "Question": "Where can user check the Customer wise Turnover",
+        "Answers": [
+            "1. User can refer Customer wise Secondary Turnover system path is as below :",
+            " MIS Report >> Turnover Report >> Customer wise Secondary Turnover For Part wise data : MIS Report >> Turnover Report >> Data Sales by BMD "  ]
+    },
+    {
+        "Question": "Where can we check BRO Eligible customers",
+        "Answers": [
+            "User can refer BRO Monthly Incentive Report by referring below path :",
+            "1. MIS Report >> Incentive 2020 >> BRO Incentive 2020 >> BRO Monthly Incentive 2020 (by Selecting Incentive Amount >0)",
+            "2. MIS Report >> BRO >> BMD BRO Dashboard"
+        ]
+    },
+    {
+        "Question": "Is there any provision to check the Part wise Order Vs. Supply",
+        "Answers": [
+            "User can refer Submitted Offer Order Settlement Report by referring below path : MIS Report >> BRO >> Submitted Offer Order Settlement"
+        ]
+    }
+]

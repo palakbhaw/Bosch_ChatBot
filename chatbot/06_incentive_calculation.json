@@ -1,0 +1,32 @@
+[
+    {
+        "Question": "What is the Logic for Incentive Calculation.",
+        "Answers": [
+            "1.Lesser Qty*LP2 from Order and supply will be considered for Incentive calculation. Incentive calculated on LP2 and for Eligible Parts only."
+        ]
+    },
+    {
+        "Question": "Which type of customers eligible for BRO",
+        "Answers": [
+            "1. Retailer, Car Garage, CV Garage, NW, IW, BDS"
+        ]
+    },
+    {
+        "Question": "What is the Logic of Special Customers",
+        "Answers": [
+            "1. Customer should be approved by Head Office for Special customer consideration"
+        ]
+    },
+    {
+        "Question": "How customer will get incentive payment",
+        "Answers": [
+            "1.Incentive paid via NEFT only._Neft should be approved by agency"
+        ]
+    },
+    {
+        "Question": "Where can I get the earned Incentive and payment details",
+        "Answers": [
+            "1.User can refer the Single Customer passbook Report available under Payout Menu"
+        ]
+    }
+]

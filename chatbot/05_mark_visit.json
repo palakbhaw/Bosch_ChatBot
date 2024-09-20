@@ -1,0 +1,41 @@
+[
+    {
+        "Question": "Who can submit the Mark Visit.",
+        "Answers": [
+            "1.Mark visit can be submit by any application user from FR to HO."
+        ]
+    },
+    {
+        "Question": "Can we submit the Mark visit for Non-Registered customers",
+        "Answers": [
+            "1. Yes, user can submit the Mark visit details for Non-Registered customers by using option Non-Registered customer mark Visit"
+        ]
+    },
+    {
+        "Question": "What is mean by Failure Mark Visit",
+        "Answers": [
+            "1. If difference identified by application in between customer latitude/Longitude and Visitor latitude Longitude then same visit will be considered as failure mark visit"
+        ]
+    },
+    {
+        "Question": "Where can find the Mark visit details",
+        "Answers": [
+            "1.On rewards portal user can login and download the mark visit summary by using below Path : MIS Report >> Mark Visit >> Consolidated Mark Visit Summary"
+        ]
+    },
+    {
+        "Question": "What is minimum condition for mark visit",
+        "Answers": [
+            "1.Customer should be Geo Verify for Mark Visit"
+        ]
+    },
+    {
+        "Question": "How the Mark Visit module work",
+        "Answers": [
+            "1. Mark visit can be done by any application user.",
+            "2. FR/BP/AM/ZM - can do the mark visit to any customer belongs to their zone",
+            "3. NSM - can do the mark visit to any customer belongs to their Region",
+            "4. HO user can do the mark visit to any customer of all region"
+        ]
+    }
+]

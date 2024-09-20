@@ -1,0 +1,56 @@
+[
+    {
+        "Question": "Is NEFT is mandatory for Payout.",
+        "Answers": [
+            "1.Yes NEFT is mandatory during New Enrollment or Geo Verification for AM Approval as in 2020 policy only NEFT is payout mode."
+        ]
+    },
+    {
+        "Question": "Is NEFT is mandatory for Payout",
+        "Answers": [
+            "Yes NEFT is mandatory during New Enrollment or Geo Verification for AM Approval as in 2020 policy only NEFT is payout mode"
+        ]
+    },
+    {
+        "Question": "Who can submit the NEFT details",
+        "Answers": [
+            "BMD can submit the NEFT details via Web Portal or any user from FR to User can submit the same from Mobile Application"
+        ]
+    },
+    {
+        "Question": "Which documents are mandatory for NEFT details",
+        "Answers": [
+            "Cancel Cheque and Consent Form with Seal or Sign is mandatory for NEFT submission (If Name is not imprinted on cancel cheque then Passbook copy to be submit the Cancel cheque for Beneficiary verification"
+        ]
+    },
+    {
+        "Question": "Unable to submit NEFT - Getting massage - Account already exists",
+        "Answers": [
+            "If user getting massage NEFT already submitted it means Same account No. already exist in system, if user wants to remove from system and wants to update against new Mobile No. then Channel Manager Approval is required"
+        ]
+    },
+    {
+        "Question": "What are possibilities for NEFT rejection",
+        "Answers": [
+            "1. NEFT will be submit by User",
+            "2. Agency will approve the NEFT",
+            "3. NEFT cross verify by CTG when 1st time payout is doing on same Account No",
+            "4. Cancel Cheque, Consent Form or Cancel Cheque with Passbook Copy if Name is not imprinted is not attached",
+            "5. Attachments are not clearly visible - Agency unable to recognized the details",
+            "6. Concent Form not fulfilled by user properly - UID, Mobile No, Seal or Sign (any one) is missing on concern form.",
+            "7. Incorrect data entry during NEFT submission."
+        ]
+    },
+    {
+        "Question": "Is any communication receiving by anyone if NEFT is rejected by Agency",
+        "Answers": [
+            "Yes if NEFT is rejected by Agency Auto Trigger mail sent to respective BMD & Area Manager with reason"
+        ]
+    },
+    {
+        "Question": "Where I can know the NEFT rejection reason if other than mail",
+        "Answers": [
+            "On rewards portal BMD can know the reason for NEFT rejection as per Account type selection"
+        ]
+    }
+]

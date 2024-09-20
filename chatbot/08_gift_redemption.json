@@ -1,0 +1,32 @@
+[
+    {
+        "Question": "Who can raise the Gift Redemption request.",
+        "Answers": [
+            "1. FRW or BDS can raise the Gift redemption request on behalf of mechanic."
+        ]
+    },
+    {
+        "Question": "What is the eligibility for Gift Redemption",
+        "Answers": [
+            "1. Mechanic should have minimum 800+ balance points in his account to request for redemption"
+        ]
+    },
+    {
+        "Question": "How Redemption cycle work",
+        "Answers": [
+            "1. BDS/UKU-FR can raised the request for redemption via Bosch Infocom Mobile App.",
+            "2. Zonal Manager will approve the request.",
+            "3. HO will approved the request after getting approved by ZM.",
+            "4. BMD will accept the claim and upload handover Photo, Invoice Copy and Acknowledgment Letter. - in case of claim raised by UKU FR.",
+            "5. UKU BMD will accept the claim and BDS will upload the handover photos",
+            "6. Agency will verify the Gift receipt with mechanic",
+            "7. CTG will issue the Credit Note to BMD"
+        ]
+    },
+    {
+        "Question": "Where can track the UKU Points or claim details",
+        "Answers": [
+            "1.user can login to rewards portal and track the points and claim in UKU Passbook option available under UKU Menu"
+        ]
+    }
+]

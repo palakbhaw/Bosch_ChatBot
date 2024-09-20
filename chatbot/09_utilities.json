@@ -1,0 +1,38 @@
+[
+    {
+        "Question": "How can we change customer Name or Shop Name",
+        "Answers": [
+            "1. BMD/FR/BP/AM can send mail to Techsupport@pearlcomp.com along with Zonal Manager Approval."
+        ]
+    },
+    {
+        "Question": "How can update GSTN",
+        "Answers": [
+            "1. GSTN can update during New Enrollment, Geo Verification or by BMD login if customer already Geo Verified or enrolled from Utility menu"
+        ]
+    },
+    {
+        "Question": "How can update Shop Registration Copy",
+        "Answers": [
+            "1. GSRegistration can update during New Enrollment, Geo Verification or by BMD login if customer already Geo Verified or enrolled from Utility menu"
+        ]
+    },
+    {
+        "Question": "If GSTN already updated then still Shop Registration Copy required",
+        "Answers": [
+            "1. No, if GSTN already updated then Shop Registration Copy not required"
+        ]
+    },
+    {
+        "Question": "How can waive offed customer for GSTN",
+        "Answers": [
+            "1. Only NW can avail the benefit for GSTN Waive off logic. Also benefit is application only for Incentive calculation not for Payout"
+        ]
+    },
+    {
+        "Question": "How can change the Mobile No. of customer",
+        "Answers": [
+            "1. BMD/FR/BP/AM can send mail to Techsupport@pearlcomp.com along with Channel Manager Approval"
+        ]
+    }
+]

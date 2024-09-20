@@ -1,0 +1,77 @@
+[
+    {
+        "Question": "Who can enroll the customer",
+        "Answers": [
+            "1. Retail FR (FRR) can enroll to BRO Customers.",
+            "2. UKU FR (FRW) can enroll to UKU Mechanics.",
+            "3. JMR can enroll to Bosch Extra mechanics.",
+            "4. SWS BP can enroll to NW customers."
+        ]
+    },
+    {
+        "Question": "Which type of customers can enrolled from Mobile application",
+        "Answers": [
+            "Below type of customers can enrolled via Mobile App: Retailer, Car Garage, CV Garage, NW, IW, UKU, Bosch Extra Mechanic."
+        ]
+    },
+    {
+        "Question": "What are the conditions are applicable in Enrollment",
+        "Answers": [
+            "1. Same Mobile No. can not be enrollment with Same BMD Channel if one UID already is in Active status",
+            "2. Blocked by HO customers not considered for condition",
+            "3. Retailer can be enrolled with any type of BMD like - BMD SAC, BMD CV, BMD PC, RBIC, BBD",
+            "4. CV Garage , NW, UKU Mechanic can be enrolled under BMD SAC & BMD CV",
+            "5. Car Garage, IW, Bosch Extra Mechanic can be enrolled in der BMD PC",
+            "6. Authorized Workshop flow from eFocus, or Area Manager can send details in define format to techsupport."
+        ]
+    },
+    {
+        "Question": "How Enrollment cycle works_BRO Customer",
+        "Answers": [
+            "1. FR/BP SWS BP Logins to Bosch Infocom Mobile Application.",
+            "2. Submit Enrollment with all Necessary details",
+            "3. BMD Login to Mobile Application and approve the enrollment (Customer Code Generated)",
+            "4. BMD upload the NEFT details - If NEFT already submitted for same Mobile No. then same will be auto clubbed",
+            "5. Area Manager will approve the Enrollment",
+            "6. Agency will verify the enrollment",
+            "7. Channel Manager will approve the enrollment."
+        ]
+    },
+    {
+        "Question": "How Enrollment cycle works_UKU Mechanic",
+        "Answers": [
+            "1. FR -UKU Logins to Bosch Infocom Mobile Application.",
+            "2. Submit Enrollment with all Necessary details.",
+            "3. BMD Login to Mobile Application and approve the enrollment (Customer Code Generated).",
+            "4. Zonal Manager will approve the Enrollment."
+        ]
+    },
+    {
+        "Question": "How Enrollment cycle works_Bosch Extra Mechanic Mechanic",
+        "Answers": [
+            "1. JMR Logins to Bosch Infocom Mobile Application",
+            "2. Submit Enrollment with all Necessary details",
+            "3. JM Login to Mobile Application and approve the enrollment",
+            "4. Channel Manager will approve the Enrollment"
+        ]
+    },
+    {
+        "Question": "What is the process of Copy Customer",
+        "Answers": [
+            "1. Copy customer option applicable for all unauthorized customers",
+            "2. FR will login to Mobile app and enter the Mobile No. which is already enrolled in Programed",
+            "3. Block customer can not copy by entering Mobile No",
+            "4. Customer can copy with same Customer channel",
+            "5. Same Mobile No. can not be copy in same BMD Channel as One BMD Channel = one UID",
+            "6. All Information will Copy other than Geo Code",
+            "7. Approval process will remain same as per New enrollment"
+
+        ]
+    },
+    {
+        "Question": "Where can I find the current Enrollment Status",
+        "Answers": [
+            "1. User can refer the Single Customer Information Report available under Master Menu"
+        ]
+    }
+]

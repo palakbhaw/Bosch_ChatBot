@@ -1,0 +1,32 @@
+[
+    {
+        "Question": "Who can scan the coupon.",
+        "Answers": [
+            "1.Lesser Qty*LP2 from Order and supply will be considered for Incentive calculation. Incentive calculated on LP2 and for Eligible Parts only."
+        ]
+    },
+    {
+        "Question": "Which are the options available for coupon scanning",
+        "Answers": [
+            "1. Via Mobile App.by Customer/Mechanic/FRs/BPs"
+        ]
+    },
+    {
+        "Question": "What is the format for scan the coupon via SMS",
+        "Answers": [
+            "1. BCR Coupon Code to 888 99 777 98 (maximum 15 coupons)"
+        ]
+    },
+    {
+        "Question": "How can mechanic know their points",
+        "Answers": [
+            "1. By login to Bosch infocom Mobile Application"
+        ]
+    },
+    {
+        "Question": "How can redeemp the coupon by Non-Registered Mechanic/Customer",
+        "Answers": [
+            "1. Non-Registered Mechanic/Retailer can get in touch with nearest Distributor for enrollment"
+        ]
+    }
+]

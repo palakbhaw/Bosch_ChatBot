@@ -1,0 +1,18 @@
+[
+    {
+        "Question": "How Geo Verification process work",
+        "Answers": [
+            "1. Geo Verification can be done by any application user (FR to HO).",
+            "2. Geo Verification Process application for Existing Enrolled Customer, Authorized Customer flow from eFocus & Not already available with 8 Digit SAP Code.",
+            "3. After Geo Verification, NEFT Submission, AM Approval, Agency Verification & Channel Manager Approval (Other than Authorized Customers) is mandatory for any transactions like Order, Incentive Calculation. etc."
+        ]
+    },
+    {
+        "Question": "What is the Process for Geo Modification",
+        "Answers": [
+            "1. Geo Request can be sent by FR or BP during Mark Visit or Order Submission (Cumulative Order Value >20K) if any Incentive not paid for customer - AM has to approve the Geo Modification request from customer location.",
+            "2. If Incentive Already Paid for Customer then BP/AM/ZM has to do the Mark Visit from Failure Location and share the Location to techsupport@pearlcomp.com with HO approval, Technical Support team will update the same from backend."
+            
+        ]
+    }
+]
